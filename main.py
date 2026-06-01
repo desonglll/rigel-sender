@@ -1,6 +1,5 @@
 import requests
 
-
 def main():
     print("Hello from rigel-sender!")
 
